@@ -15,4 +15,16 @@ ul {
 li{
   margin: 10px 0px 0px 0px; 
 }
-
+p{
+ text-align: justify;
+}
+h3{
+ text-transform:capitalize;
+ text-decoration: underline;
+}
+th{
+ text.transform: uppercase;
+ letter-spacing: .1em;
+ font-size: 85%;
+ border-right:2px solid #000000
+}
