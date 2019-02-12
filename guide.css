@@ -21,6 +21,7 @@ p{
 h3{
  text-transform:capitalize;
  text-decoration: underline;
+ color: white; 
 }
 th{
  text.transform: uppercase;
