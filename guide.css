@@ -1,0 +1,14 @@
+body {
+background-color: gold;
+color: black;
+font-family: Georgia, serif;
+border: 15px solid #000000;
+text-align: center;
+margin: 0px;
+}
+
+h1 {
+font-family:"Trebuchet MS", Helvetica, sans-serif;
+text-align: center;
+padding: 18px;
+}
